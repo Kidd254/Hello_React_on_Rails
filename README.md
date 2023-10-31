@@ -107,7 +107,7 @@ In order to run this project you need:
 Clone this repository to your desired folder by using this 👇️ command :
 
 ```
-git clone https://github.com/NitBravoA92/hello-rails-react.git
+git clone https://github.com/Kidd254/Hello_React_on_Rails.git
 ```
 
 ### Install
